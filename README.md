@@ -25,6 +25,7 @@ create a structured specification
 
 **How**
 Phase: AI Integration (spaCy and LLM)
+
 Step: Integrate spaCy and LLM Call in FastAPI Backend
 The backend receives a product feature brief (or, with chat support, a conversation history).
 It constructs a prompt and sends it to the Google Gemini API (an advanced AI large language model).
